@@ -1,3 +1,4 @@
+![Header image](./header.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikolertesx)](https://github.com/mikolertesx/github-readme-stats)
 
 Hi, I'm Miguel Angel Guerrero Salinas.
