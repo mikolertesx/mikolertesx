@@ -1,4 +1,5 @@
 [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikolertesx)](https://github.com/mikolertesx/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikolertesx)](https://github.com/mikolertesx/github-readme-stats)
 Hi, I'm Miguel Angel Guerrero Salinas.
 
 I'm a FullStack web developer, I mostly learned on my free time.
